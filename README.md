@@ -1,2 +1,3 @@
 # Smart-Auctions-for-ICO
 This is the prototype code for smart auctions for Initial Coin Offerings (ICOs)
+In development stage...
